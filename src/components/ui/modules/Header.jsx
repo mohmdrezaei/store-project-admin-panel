@@ -18,7 +18,7 @@ function Header() {
     setAnchorMyAcc(null);
   };
   return (
-    <header className="w-full h-auto py-2 pr-52 pl-7 bg-[#fff] border-b border-[rgba(0,0,0,0.1)] flex items-center justify-between">
+    <header className="w-full h-auto py-2 pr-64 pl-7 bg-[#fff] border-b border-[rgba(0,0,0,0.1)] flex items-center justify-between">
       <div className="part1">
         <Button className="!w-[40px] !h-[40px] !rounded-full !min-w-[40px]  !text-[rgba(0,0,0,0.8)]">
           <RiMenu3Fill className="text-[18px] text-[rgba(0,0,0,0.8)]" />

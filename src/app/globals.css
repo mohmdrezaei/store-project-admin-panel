@@ -40,3 +40,7 @@ input,
 textarea {
   font-family: inherit;
 }
+
+.ReactCollapse--collapse {
+  transition: height 300ms;
+}
