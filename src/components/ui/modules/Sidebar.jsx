@@ -36,7 +36,7 @@ function Sidebar({ children }) {
         <ul className="mt-4 ">
           <li>
             <Button
-              className="w-full !font-[500] !py-3  !justify-start gap-3 text-[14px]
+              className="w-full !font-[600] !py-3  !justify-start gap-3 text-[14px]
              hover:!bg-[#f1f1f1] !text-[rgba(0,0,0,0.8)]"
             >
               <RxDashboard className="text-[20px]" /> <span>پیشخوان</span>
